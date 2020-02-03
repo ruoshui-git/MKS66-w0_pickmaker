@@ -1,6 +1,7 @@
 all:
 	cargo run
 
-.PHONY clean
+.PHONY: clean
+
 clean:
 	cargo clean
